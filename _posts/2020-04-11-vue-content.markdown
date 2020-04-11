@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "vue content"
+title:  "v-bind:src에서 이미지를 불러오지 못할때"
 date:   2020-04-11 22:18:01 -0500
 comments: true
 categories: vue
