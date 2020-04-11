@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hwd3527.github.io/jsbb.github.io/" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: 제이에스 뽀시래기
 
 # Social icons
 facebook: username
