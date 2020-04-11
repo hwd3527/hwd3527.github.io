@@ -30,8 +30,8 @@ src 속성을 바인딩 하고 크롬 개발자모드로 확인하면
 이럴때 간단한 해결책은 require안에 이미지 경로를 넣어주는 것입니다.
 
 ``` javascript
-<img :src="require(`@/assets/img/clear.gif`)"
+<img :src="require(`@/assets/images/test.jpg`)"
 
 또는
-<img :src="require(`@/assets/img/${imgURL}`)" 
+<img :src="require(`@/assets/images/${imgURL}`)" 
 ```
