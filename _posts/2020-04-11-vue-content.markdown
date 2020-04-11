@@ -34,12 +34,11 @@ Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet g
 
 ![Large example image](http://placehold.it/800x400 "Large example image")
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+간단한 해결책은 require안에 이미지 경로를 넣어주는 것입니다.
 
 ``` javascript
-function trigger_alert(){
-  alert("Lorem Ipsum dolor sit amet");
-}
+<img :src="require(`@/assets/img/clear.gif`)"
 
-trigger_alert();
+또는
+<img :src="require(`@/assets/img/${imgURL}`)" 
 ```
