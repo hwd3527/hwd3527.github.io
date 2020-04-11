@@ -1,8 +1,8 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: js 뽀시래기
+email: hwd3527@naver.com
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://hwd3527.github.io/jsbb.github.io/" # the base hostname & protocol for your site
 
 # Sidebar settings
 description: One sentence introducing yourself or what you do
