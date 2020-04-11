@@ -14,7 +14,7 @@ categories: vue
 ``` javascript
 <img src="data:image/jpeg;base64,/9j/4AASEw8UHRofHh0aH...n3P/9k=">
 ```
-소스는 변환되어 보이지만 이미지는 정상적으로 보입니다.
+소스는 변환되어 보이지만 이미지는 정상적으로 보입니다.<br><br>
 
 그러나,
 ``` javascript
