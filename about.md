@@ -12,7 +12,8 @@ javascript의 방대한 영역, 그중에서도 vue.js와 node.js를 공부하�
 
 조금이라도 도움이 되길 바라며, 잘못된 정보는 지적해 주시고 같이 성장해 나가길 바랍니다.<br>
 
-감사합니다.
+감사합니다.<br>
+
 <!-- 
 Taken is a two column minimalist Jekyll theme.
 
