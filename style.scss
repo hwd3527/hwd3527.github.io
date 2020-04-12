@@ -67,7 +67,11 @@ label[data-function*='swipe'] {
 }
 
 input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
-  transform: translate3d(260px,0,0);
+  transform: translate3d(180px,0,0);
+  -webkit-transform: translate3d(180px,0,0);
+  -moz-transform: translate3d(180px,0,0);
+  -ms-transform: translate3d(180px,0,0);
+  -o-transform: translate3d(180px,0,0);
 }
 
 #social-icons
